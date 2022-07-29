@@ -1,10 +1,9 @@
 <div align="center" id="top"> 
-  <img src=".cover.gif" alt="Calculadora de IMC" />
+  <img src="./cover.gif" alt="Calculadora de IMC" />
 
 &#xa0;
 
-<a href="https://calcyarn build
-uladora-imc.caciodev.com">Demo</a>
+<a href="https://calculadora-imc.caciodev.com/">Demo</a>
 
 </div>
 
@@ -16,6 +15,8 @@ uladora-imc.caciodev.com">Demo</a>
   <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/kacyos/calculadora_de_imc?color=56BEB8">
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/kacyos/calculadora_de_imc?color=56BEB8">
+  
+  <img alt="Licença" src="https://img.shields.io/github/license/kacyos/calculadora_de_imc?color=56BEB8">
 
 
 
@@ -36,7 +37,6 @@ uladora-imc.caciodev.com">Demo</a>
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
