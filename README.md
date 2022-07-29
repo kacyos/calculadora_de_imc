@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/cover.gif" alt="Calculadora de IMC" />
+  <img src=".cover.gif" alt="Calculadora de IMC" />
 
 &#xa0;
 
@@ -17,7 +17,7 @@ uladora-imc.caciodev.com">Demo</a>
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/kacyos/calculadora_de_imc?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/kacyos/calculadora_de_imc?color=56BEB8">
+
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/kacyos/calculadora_de_imc?color=56BEB8" /> -->
 
