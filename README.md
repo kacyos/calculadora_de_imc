@@ -1,13 +1,13 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Calculadora_de_imc" />
+  <img src="./.github/cover.gif" alt="Calculadora de IMC" />
 
 &#xa0;
 
-<a href="https://calculadora_de_imc.netlify.com">Demo</a>
+<a href="https://calculadora-imc.caciodev.com">Demo</a>
 
 </div>
 
-<h1 align="center">Calculadora_de_imc</h1>
+<h1 align="center">Calculadora de IMC</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/kacyos/calculadora_de_imc?color=56BEB8">
@@ -47,23 +47,15 @@
 
 ## :dart: Sobre
 
-Sobre o seu projeto
-
-## :sparkles: Funcionalidades
-
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
-:heavy_check_mark: Funcionalidade 3;
+Calculadora de IMC (Índice de Massa Corporal)
 
 ## :rocket: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [SCSS](https://sass-lang.com/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/javascript)
 
 ## :white_check_mark: Pré requisitos
 
@@ -82,9 +74,9 @@ $ cd calculadora_de_imc
 $ yarn
 
 # Para iniciar o projeto
-$ yarn start
+$ yarn dev
 
-# O app vai inicializar em <http://localhost:3000>
+# O app vai inicializar em <http://localhost:5173>
 ```
 
 ## :memo: Licença
